@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f0f2f5;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    }
+select#tanggal {
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1.5px solid #007bff;
+    font-size: 16px;
+    background: white;
+    color: #333;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgb(0 123 255 / 0.3);
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    }
+  select#tanggal:hover,
+  select#tanggal:focus {
+    border-color: #0056b3;
+    box-shadow: 0 0 8px rgb(0 86 179 / 0.6);
+    outline: none;
+  }
