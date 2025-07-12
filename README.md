@@ -2,7 +2,7 @@
 
 Dito Dwi Prasetyo || 2213020043
 
-Project 1 => Sudah berjalan tapi masih kesulitan dalam upload ke vercel
+Project 1 => Sudah berjalan tapi masih kesulitan dalam upload ke vercel, kalau sudah bisa hosting paling lambat besok saya ganti lagi, terimakasih
 
 Project 2 => https://bootcamp-prasetyo.vercel.app/
 
